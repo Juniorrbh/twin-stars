@@ -1,2 +1,2 @@
 # twin-stars
-jion another repository 
+join another repository 
